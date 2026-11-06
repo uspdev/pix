@@ -1,0 +1,26 @@
+{
+    "name": "uspdev/pix",
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/uspdev/pix",
+    "description": "Classe PHP para uso de pix na USP",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Marcelo Fontana",
+            "email": "makf00@usp.br",
+            "homepage": "https://github.com/Marcelo-k-USP"
+        }
+    ],
+    "require": {
+        "php": ">=7.4 || >=8.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-iconv": "*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Uspdev\\" : "src"
+        }
+    }
+}
