@@ -1,7 +1,7 @@
 {
-    "name": "uspdev/pix",
+    "name": "uspdev/wspix",
     "minimum-stability": "dev",
-    "homepage": "https://github.com/uspdev/pix",
+    "homepage": "https://github.com/uspdev/wspix",
     "description": "Classe PHP para uso de pix na USP",
     "type": "library",
     "license": "GPL-2.0-or-later",

@@ -4,7 +4,7 @@ Biblioteca que abstrai as chamadas da API REST/JSON para métodos no contexto de
 
 Para usá-la em seu projeto PHP:
 
-    composer require uspdev/pix
+    composer require uspdev/wspix
 
 Dependências mínimas do PHP:
 
